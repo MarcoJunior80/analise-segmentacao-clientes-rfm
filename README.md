@@ -1,12 +1,12 @@
-Análise de Segmentação de Clientes com RFM
+# Análise de Segmentação de Clientes com RFM
 
-1. Visão Geral do Projeto
+## 1. Visão Geral do Projeto
 
 Este projeto realiza uma análise de segmentação de clientes para uma empresa de varejo online fictícia. Utilizando o modelo RFM (Recência, Frequência, Valor Monetário), o objetivo é identificar diferentes perfis de consumidores com base em seu comportamento de compra.
 
 O resultado final é um conjunto de segmentos acionáveis (ex: "Clientes Campeões", "Clientes em Risco", "Novos Clientes") que permitem ao time de marketing criar campanhas personalizadas e mais eficazes.
 
-2. Valor Comercial
+## 2. Valor Comercial
 
 A segmentação RFM permite que a empresa:
 
@@ -18,7 +18,7 @@ Personalize a Comunicação: Enviando a mensagem certa para o cliente certo, aum
 
 Tome Decisões Estratégicas: Obtendo uma visão clara da saúde da base de clientes e da eficácia das estratégias de aquisição e retenção.
 
-3. Tecnologias Utilizadas
+## 3. Tecnologias Utilizadas
 
 Linguagem: Python
 
@@ -30,7 +30,7 @@ Ambiente: Jupyter Notebook
 
 Ferramenta de BI: Power BI
 
-4. O Projeto em Etapas
+## 4. O Projeto em Etapas
 
 A análise foi dividida no seguinte fluxo de trabalho:
 
@@ -68,7 +68,7 @@ Hibernando: (111, 121) - Clientes antigos, com baixa frequência e baixo gasto. 
 
 Novos Clientes: (411, 412) - Compraram recentemente, mas poucas vezes. Potencial para se tornarem fiéis.
 
-5. Resultados e Dashboard
+## 5. Resultados e Dashboard
 
 Os segmentos e métricas foram consolidados em um dashboard interativo.
 
@@ -83,6 +83,7 @@ Filtrar clientes por perfil para ações de marketing direcionadas.
 <img width="1524" height="808" alt="image" src="https://github.com/user-attachments/assets/f4e8ed04-90e9-43dc-82ae-26ed3d3f7490" />
 <img width="1544" height="807" alt="image" src="https://github.com/user-attachments/assets/ab7d9d9e-da4c-4e62-b6e1-7844e45004a8" />
 <img width="1512" height="785" alt="image" src="https://github.com/user-attachments/assets/8bb85077-77a9-4381-9dc8-631a220cd829" />
+
 
 
 
